@@ -122,14 +122,14 @@ section a {
 @media screen and (max-width: 750px) {
   main {
     grid-template-columns: 1fr;
-    padding: 0 15% 0 15%;
+    padding: 0 20% 0 20%;
   }
 }
 
 @media screen and (max-width: 640px) {
   main {
     grid-template-columns: 1fr;
-    padding: 0 10% 0 10%;
+    padding: 0 15% 0 15%;
   }
 }
 
